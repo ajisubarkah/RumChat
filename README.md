@@ -5,7 +5,7 @@ RumChat merupakan Aplikasi Android yang dibuat menggunakan bahasa pemrograman Ja
 ## Maintener
 
 - [![Mr. Plankton](https://avatars0.githubusercontent.com/u/32671397?s=32&v=4) Aji Subarkah](https://github.com/ajisubarkah)
-- [![maryamhabibah](https://avatars2.githubusercontent.com/u/39621478?s=32&v=4) MaryamHabibah](https://github.com/maryamhabibah)
+- [![maryamhabibah](https://avatars0.githubusercontent.com/u/39621478?s=32&v=4) MaryamHabibah](https://github.com/maryamhabibah)
 
 ## Requirements Developer
 
